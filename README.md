@@ -16,7 +16,7 @@ A results-driven **Software Developer** and a final-year Computer Science and En
 
 ### Key Projects & Experience
 
-- 🔭 **Project Title:** Currently redesigning a flight booking application. *My goal is to optimize the user flow and improve front-end performance by 25% using modern React principles.*
+- 🔭 **Project Title:** Currently designing a flight booking application. *My goal is to optimize the user flow and improve front-end performance by 25% using modern React principles.*
 - 🌱 **Learning & Development:** I am continuously expanding my knowledge in AI to develop more intelligent web-based solutions.
 - 👯 **Collaboration:** Open to collaborating on MERN stack or AI-driven projects.
 
