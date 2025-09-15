@@ -5,12 +5,9 @@ I'm a final-year Computer Science and Engineering student at **VIT Bhopal Univer
 ---
 
 - 🔭 I’m currently working on redesigning a flight booking app.
-- 🌱 I’m currently learning how to better integrate web development with AI.
 - 👯 I’m looking to collaborate on projects that use the MERN stack or involve Generative AI.
-- 🤔 I’m looking for help with optimizing my code for better performance.
 - 💬 Ask me about anything related to MERN, AI, or DSA (Arrays, Strings, and Linked Lists).
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/saumya-tiwari100).
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I talk a lot and improve very fast as per need.
 
 ---
